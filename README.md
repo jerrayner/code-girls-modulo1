@@ -1,8 +1,7 @@
-
-<img src="![codeGirls](codeGirls.png)">
 # Santander Code Girls
+<img src="![](https://hermes.digitalinnovation.one/tracks/01b0dd36-83ef-40f8-b52a-d542cc85727c.png)">
 
-Olá! Dei uma pausa em meus estudos de Python,entrando em um desafio da imersão em Java, disponibilizado pela plataforma Digital Innovation One em parceria com o grupo Santander.
+Olá! Dei uma pausa em meus estudos de Python,entrando em um desafio da imersão em Java, disponibilizado pela plataforma Digital Innovation One em parceria com o grupo Santander.<br>
 Nos primeiros módulos foram introduzidos os conceitos de lógica de programação, versionamento de código com GIT/GITHUB, e acompanhar a instalação e configurações das IDEs Eclipse e IntelliJ. Confesso que gostei mais do ambiente da IntelliJ, pude usurfruir da versão paga pelo pacote de estudante do github, o que foi maravilhoso também.
 <br>
 Estarei enviando meus exercicios aqui na plataforma, conforme for efetuando-os.
